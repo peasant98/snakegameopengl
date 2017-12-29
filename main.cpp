@@ -14,7 +14,7 @@ int main()
     cin >> y;
     int z;
     z = addition(x, y);
-    cout << z;
+    cout << "Your answer is "  << z;
 
 
 
